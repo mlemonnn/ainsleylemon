@@ -1,8 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-lemonag.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1708784831|-uubPB_3Ucf0
-lemonag.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
-lemonag.wixsite.com	TRUE	/	FALSE	1999999999	TS0148e245	018d9e98b6d916590176fabc8ec549c5942a609c54cd92833728406ec7fe1a34a68803136f3efcf8845cb6b677157a19bf6def9ea7a72870e0584d9a2cf81dda1ae0ee9eec
-lemonag.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=42_g
-.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01c46356a7d67ac87df8a61e30af0bfab573f517906d6a7f3fd56592bb455aada0cd08bf2f417e5e313b74b3492ae2d47e8715b64a
-
